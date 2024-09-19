@@ -1,0 +1,31 @@
+#col-container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.heightfit{
+  height:120px;
+}
+gradio-app{
+  background: rgb(153,0,255);
+  background-image: radial-gradient(circle, rgba(153,0,255,1) 0%, rgba(9,15,121,1) 96%, rgba(2,0,36,1) 100%) !important;
+  height: 100%;
+  width: 100%;
+}
+#row-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.leftimage .rightimage{
+  float:left;
+}
+.leftimage{
+  padding-top:27px;
+  margin-left:210px;
+}
+.rightimage{
+  margin-right:210px;
+  margin-top:15px;
+}
+

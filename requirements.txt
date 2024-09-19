@@ -1,0 +1,9 @@
+tiktoken
+langchain_experimental
+langchain-openai
+langchain
+gradio
+requests
+unstructured[all-docs]
+validators
+faiss-cpu
